@@ -132,15 +132,13 @@ Also into gaming, music, and shitposting.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithshelby&show_icons=true&hide_border=true&bg_color=0:7B19E4,100:F8AF8E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshelby&layout=compact&hide_border=true&bg_color=0:66D1E6,100:FCD4B8&title_color=1a1a1a&text_color=1a1a1a" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithshelby&show_icons=true&hide_border=true&bg_color=7B19E4&title_color=ffffff&text_color=ffffff&icon_color=F8AF8E" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshelby&layout=compact&hide_border=true&bg_color=66D1E6&title_color=1a1a1a&text_color=1a1a1a" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithshelby&hide_border=true&background=0:7B19E4,100:F8AF8E&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=codewithshelby&hide_border=true&background=7B19E4&stroke=ffffff&ring=F8AF8E&fire=F8AF8E&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak"/>
 </p>
-
----
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 ## 🤝 Let's Connect
