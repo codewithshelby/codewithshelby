@@ -75,9 +75,12 @@ Also into gaming, music, and shitposting. Reach me on   [email](shelby.binary@gm
 ---
 ## ⚡ Projects
 
-| 🚀 Project | What it is| Links |
+| 🚀 Project | What it is | Links |
 | ------- | ----------- | ----- |
-| 💬 **Expense Tracker** | Self-made App-style -, No backend, Login gateway. No Auth, no bloat, just use.|[Repo](https://github.com/codewithshelby/Expenses-Tracker-Web-App.git) • 
+| 💬 **Expense Tracker** | Self-made app-style tracker. No backend, login gateway, no auth, no bloat, just use. | [Repo](https://github.com/codewithshelby/Expenses-Tracker-Web-App) |
+| 🤖 **Friday AI** 🚧 | A personal AI assistant, currently under development. | [Repo](https://github.com/codewithshelby/Friday-Ai-) |
+| 🕹️ **Enid Bot** | A bot built for fun and for learning. | [Repo](https://github.com/codewithshelby/Enid-bot-) |
+| 💼 **Haryana AI Job Portal** 🚧 | An AI-powered job portal for Haryana, currently under development. | [Repo](https://github.com/codewithshelby/Ai-Haryana-Job-Portal-) |
 
 
 ---
@@ -88,6 +91,9 @@ Also into gaming, music, and shitposting. Reach me on   [email](shelby.binary@gm
 | 🚀 Project | ⚖️ Size | 📜 Documentation | ☁️ Status |
 | ------- | ---- | -------------- | ------ |
 | **Smart Expense Tracker** | ![Size](https://img.shields.io/github/repo-size/codewithshelby/Expenses-Tracker-Web-App?style=for-the-badge&color=27D797) | ![Docs](https://img.shields.io/badge/docs-available-FBC3A7?style=for-the-badge) | ![Status](https://img.shields.io/badge/status-active-66D1E6?style=for-the-badge) |
+| **Friday AI** | ![Size](https://img.shields.io/github/repo-size/codewithshelby/Friday-Ai-?style=for-the-badge&color=27D797) | ![Docs](https://img.shields.io/badge/docs-wip-FBC3A7?style=for-the-badge) | ![Status](https://img.shields.io/badge/status-in_development-F8AF8E?style=for-the-badge) |
+| **Enid Bot** | ![Size](https://img.shields.io/github/repo-size/codewithshelby/Enid-bot-?style=for-the-badge&color=27D797) | ![Docs](https://img.shields.io/badge/docs-available-FBC3A7?style=for-the-badge) | ![Status](https://img.shields.io/badge/status-active-66D1E6?style=for-the-badge) |
+| **Haryana AI Job Portal** | ![Size](https://img.shields.io/github/repo-size/codewithshelby/Ai-Haryana-Job-Portal-?style=for-the-badge&color=27D797) | ![Docs](https://img.shields.io/badge/docs-wip-FBC3A7?style=for-the-badge) | ![Status](https://img.shields.io/badge/status-in_development-F8AF8E?style=for-the-badge) |
 
 
 <p align="center"><i>Things aren't always <code>#000000</code> and <code>#FFFFFF</code></i></p>
