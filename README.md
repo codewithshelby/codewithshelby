@@ -26,7 +26,7 @@
 
 <img align="right" src="https://i.ibb.co/Qv8ZQTrL/IMG-20260118-175922-152.jpg" width="150" alt="Shelby"/>
 
-I like building things. Sometimes it's web, sometimes it's an Android bot at 2am. I don't really care what language it's in as long as it's fun, though I'll always have a soft spot for **.NET**.
+I like building things. Sometimes it's web, sometimes it's an Android bot at 2am. I don't really care what language it's in as long as it's fun, though I'll always have a soft spot for **C**.
 
 I'm a big believer in **owning your own stuff**: self-hosted, open source, no unnecessary dependencies on someone else's platform. If I can build it myself and learn something along the way, that's the move. I'd rather ship something rough that works than overthink it into never existing.
 
