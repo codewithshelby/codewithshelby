@@ -24,7 +24,7 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 👾 About Me
 
-<img align="right" src="https://yourimageshare.com/ib/UdabOTFDHE" width="150" alt="Shelby"/>
+<img align="right" src="https://yourimageshare.com/ib/UdabOTFDHE.png" width="150" alt="Shelby"/>
 
 I like building things. Sometimes it's web, sometimes it's an Android bot at 2am. I don't really care what language it's in as long as it's fun, though I'll always have a soft spot for **C**.
 
